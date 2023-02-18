@@ -56,12 +56,9 @@ footer{
     width: 50px;
 }
 
-<<<<<<< HEAD
 .white{
     color: white;
 }
-=======
->>>>>>> 9a126c49c6bf7f05db32a9d64e7228f45a7dddc1
 /* -------------------------MAIN_INDEX------------------------- */
 
 .header_banner-css{
@@ -69,31 +66,20 @@ footer{
     padding-bottom: 3px;
 }
 .container_size_css{
-<<<<<<< HEAD
     width: 100%;
     --bs-gutter-x: 0rem;
     --bs-gutter-y: 0rem;
-=======
-    width: 100;
->>>>>>> 9a126c49c6bf7f05db32a9d64e7228f45a7dddc1
 }
 
 .main_div_img{
     width: 100%;
-<<<<<<< HEAD
-=======
-    
->>>>>>> 9a126c49c6bf7f05db32a9d64e7228f45a7dddc1
 }
 
 .main_row_div_odd-color{
     background-color:rgb(112, 112, 112);
     text-align: center;
     align-items: center;
-<<<<<<< HEAD
     padding: 10px;
-=======
->>>>>>> 9a126c49c6bf7f05db32a9d64e7228f45a7dddc1
 }
 .main_row_div_pair-color{
     background-color: rgb(255, 255, 255);
@@ -106,10 +92,6 @@ footer{
 }
 .main_row_div_pair_font-css{
     text-align: center;
-<<<<<<< HEAD
-=======
-    line-height: 30px;
->>>>>>> 9a126c49c6bf7f05db32a9d64e7228f45a7dddc1
     color: rgb(0, 0, 0);
 }
 
