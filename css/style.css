@@ -44,7 +44,10 @@ footer{
     color: rgb(255, 255, 255);
     margin-top: auto;
 }
-
+.sticky{
+    position: sticky;
+    top: 0;
+}
 .map{
     width: 100%;
 }
