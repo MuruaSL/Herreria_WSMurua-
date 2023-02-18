@@ -59,6 +59,8 @@ footer{
 .white{
     color: white;
 }
+
+
 /* -------------------------MAIN_INDEX------------------------- */
 
 .header_banner-css{
@@ -96,3 +98,13 @@ footer{
 }
 
 /* -------------------------Portfolio------------------------- */
+
+.text_shadow{
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: rgb(165, 164, 164) 6px 6px 8px;
+    text-transform: uppercase;
+    color:rgb(0, 0, 0)
+    }
