@@ -106,5 +106,13 @@ footer{
     text-align: center;
     text-shadow: rgb(165, 164, 164) 6px 6px 8px;
     text-transform: uppercase;
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
     }
+
+.h2_portfolio{
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+    line-height: 70px;
+}
