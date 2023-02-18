@@ -130,3 +130,9 @@ footer{
 .margin_bot_20{
     margin-bottom: 20px;
 }
+
+/*--------------------------------------QUIENES SOMOS ----------------------------------------*/
+.quienes_somos_title{
+    padding-left: 2rem;
+    font-size: 2rem;
+}
