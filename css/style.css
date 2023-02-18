@@ -116,3 +116,14 @@ footer{
     align-items: center;
     line-height: 70px;
 }
+
+.odd_color_portfolio{
+    background-color:#cbcaca;
+}
+.pair_color_portfolio{
+    background-color: rgb(255, 255, 255);
+}
+
+.margin_bot_20{
+    margin-bottom: 20px;
+}
