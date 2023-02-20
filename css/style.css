@@ -1,6 +1,14 @@
+@gray-darker:               #444444;
+@gray:                      #999999;
+@gray-light:                #cccccc;
+@gray-lighter:              #ececec;
+@gray-lightest:             lighten(@gray-lighter,4%);
+
+
 *{
     margin: 0px;
     padding: 0px;
+
 }
 .align_end{
     text-align: end;
@@ -364,3 +372,4 @@ input:focus{
 
 
 
+/* ----------------------------------- RECONOCIMIENTOS ------------------------------------ */
