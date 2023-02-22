@@ -376,7 +376,9 @@ input:focus{
 }
 
 .form_backcolor{
-    background-color:#e1e1e2;
+    background-image: url(../img/galardones/depositphotos_57492523-stock-photo-wooden-plank-background-and-texture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
@@ -409,7 +411,7 @@ input:focus{
     background-color: #ffffff;
     align-items: center;
     padding: 3rem;
-    border-radius:100px;
+    border-radius:50px;
     box-shadow:0 0 40px -10px #000;
     width:540px;
     height:680px;
