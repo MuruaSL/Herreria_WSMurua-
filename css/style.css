@@ -396,6 +396,9 @@ input:focus{
     margin:calc(50vh - 300px) auto;
     
 }
+.reconocimiento_h2_style{
+    padding: 1rem;
+}
 .galardon_style_odd{
     background-color: #ffffff;
     align-items: center;
