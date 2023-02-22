@@ -4,6 +4,9 @@
     padding: 0px;
 
 }
+p{
+    margin-bottom: 0px;
+}
 .align_end{
     text-align: end;
 }
@@ -56,7 +59,11 @@ footer{
 }
 /* -------------------------NAVBAR------------------------- */
 .nav_style_css{
+    
     background-color:#9C9999;
+}
+.navbar_without-line{
+    --bs-navbar-padding-y: 0px;
 }
 .navbar_brand-size{
     width: 50px;
@@ -71,7 +78,6 @@ footer{
 
 .header_banner-css{
     width: 100%;
-    padding-bottom: 3px;
 }
 .container_size_css{
     width: 100%;
@@ -389,11 +395,11 @@ input:focus{
     margin-top: 20px;
     align-items: center;
     padding: 3rem;
-    border-radius:8px;
+    border-radius:50px;
     box-shadow:0 0 40px -10px #000;
     width:540px;
-    height:640px;
-    margin:calc(50vh - 300px) auto;
+    height:680px;
+    margin:calc(50vh - 220px) auto;
     
 }
 .reconocimiento_h2_style{
@@ -403,10 +409,10 @@ input:focus{
     background-color: #ffffff;
     align-items: center;
     padding: 3rem;
-    border-radius:8px;
+    border-radius:100px;
     box-shadow:0 0 40px -10px #000;
     width:540px;
-    height:640px;
+    height:680px;
     
     margin:calc(50vh - 220px) auto;
 }
