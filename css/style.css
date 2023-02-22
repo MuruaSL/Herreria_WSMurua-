@@ -82,6 +82,10 @@ footer{
 .main_div_img{
     width: 100%;
 }
+.index_p_css{
+    font-size: 1.5rem;
+    padding: 1rem;
+}
 
 .main_row_div_odd-color{
     background-color:rgb(112, 112, 112);
@@ -297,7 +301,10 @@ footer{
 }
 
 /* -----------------------------------FORMULARIO DE CONTACTO------------------------------------ */
-
+.contact_main_css{
+    background-image: url(../img/galardones/fondoMetal.jpg);
+    
+}
 
 .form{
     width:340px;
