@@ -368,19 +368,26 @@ input:focus{
 }
 
 /* ----------------------------------- RECONOCIMIENTOS ------------------------------------ */
+.main_reconocimientos{
+    background-image: url(../img/galardones/fondoMetal.jpg);
+}
+
 .galardon_css{
     height: 300px;
+    border-radius: 20px;
+    padding-bottom: 20px;
 }
 .galardon_style{
     background-color: #CBCACA;
+    margin-top: 20px;
     align-items: center;
     padding: 3rem;
     border-radius:8px;
     box-shadow:0 0 40px -10px #000;
     width:540px;
     height:640px;
+    margin:calc(50vh - 300px) auto;
     
-    margin:calc(50vh - 220px) auto;
 }
 .galardon_style_odd{
     background-color: #ffffff;
