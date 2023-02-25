@@ -274,8 +274,8 @@ footer{
     }
 }
 
-/*--------------------------------------QUE HACEMOS -----------------------------------------*/
-/*----------------- Se comporta igual que la pagina de quienes_somos ----------------------- */
+/*-------------------------------------------------------QUE HACEMOS ------------------------------------------------------------------------*/
+/*----------------- Se comporta igual que la pagina de quienes_somos por lo que se reutiliza class="grid-master_whoweare " ----------------------- */
 
 .conoce_mas2{
     text-align: center;
@@ -299,11 +299,20 @@ footer{
     height: 400px;
 }
 .whatwedo_text_css{
-    line-height: 100px;
+    line-height: 70px;
 }
 .whoweare_title2{
     height: 100px;
     width: 100%;
+}
+.conocemas_container{
+    padding-top: 10px;
+    background-color: #6E7271;
+    grid-area: 4 / 1 / 5 / 3;
+    color: rgb(255, 255, 255);
+    height:  400px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 /* -----------------------------------FORMULARIO DE CONTACTO------------------------------------ */
@@ -400,7 +409,7 @@ input:focus{
     border-radius:50px;
     box-shadow:0 0 40px -10px #000;
     width:540px;
-    height:680px;
+    height:700px;
     margin:calc(50vh - 220px) auto;
     
 }
